@@ -3,7 +3,7 @@
 - 🔭 Eu estou trabalhando em produção de um site pessoal
 - 🌱 Eu estou aprendendo mais sobre HTML, CSS e JavaScript
 - 📫 Contate-me: monvarsegundo@gmail.com
-- 🏫 Cursando: 8/8 periodo de Sistemas da Informação.
+- 🏫 Formado em Bacharel Sistemas da Informação.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monvar&count_private=true&show_icons=true&theme=tokyonight)
